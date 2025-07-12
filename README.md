@@ -48,9 +48,9 @@ Here’s my developer journey on [Stack Overflow](https://stackoverflow.com/user
 
 ### 📫 Connect with Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/)
-- 🧠 [Stack Overflow](https://stackoverflow.com/users/YOUR_ID)
-- 📧 Email: your-email@example.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/emil-pradeep-243605117/)
+- 🧠 [Stack Overflow](https://stackoverflow.com/users/6414086)
+- 📧 Email: emilpradeep@gmail.com
 
 ---
 
