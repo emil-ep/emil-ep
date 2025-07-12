@@ -25,24 +25,24 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=emil-ep&show_icons=true&theme=radical" alt="GitHub Stats"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=emil-ep&theme=radical" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emil-ep&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
 
 ---
 
 ### 💡 Stack Overflow Profile
 
-Here’s my developer journey on [Stack Overflow](https://stackoverflow.com/users/YOUR_ID):
+Here’s my developer journey on [Stack Overflow](https://stackoverflow.com/users/6414086):
 
-[![Stack Overflow Reputation](https://stackoverflow-badge.vercel.app/?userID=YOUR_ID)](https://stackoverflow.com/users/YOUR_ID)
+[![Stack Overflow Reputation](https://stackoverflow-badge.vercel.app/?userID=6414086)](https://stackoverflow.com/users/6414086)
 
 ---
 
